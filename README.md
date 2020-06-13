@@ -19,7 +19,6 @@ if (isDark) {
     button.innerHTML = `Light Mode`;
     isDark = true;
 }
-});
-
+});```
 
 ### Voila! You have your switch-mode button
