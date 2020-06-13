@@ -20,6 +20,6 @@ if (isDark) {
     isDark = true;
 }
 });
-`
+```
 
 ### Voila! You have your switch-mode button
