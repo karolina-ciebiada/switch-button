@@ -5,7 +5,8 @@ I created this page for testing my js button
 ### How it works?
 1. Firstable, you should create a button with js class in HTML.
 2. In js file define your button and function and give them classes from your button
-3. Write function for example: ``` java script 
+3. Write function for example:
+``` java script 
 switchModes.addEventListener('click', () => {
 if (isDark) {
     document.documentElement.style.setProperty('--background-color', 'rgb(243, 239, 226)');
@@ -18,5 +19,5 @@ if (isDark) {
     button.innerHTML = `Light Mode`;
     isDark = true;
 }
-});
+});```
 ### Voila! You have your switch-mode button
